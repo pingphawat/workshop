@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147900625772",
+    "project_id": "cnc-shop-ff019",
+    "storage_bucket": "cnc-shop-ff019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147900625772:android:780f026fd5677a057af949",
+        "android_client_info": {
+          "package_name": "com.sunofthebeach.sunofthebeach_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147900625772-1ogt8hlnsej8jgpdrp14fs6h0fpj8t8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARo9VnZWLKxVBgsfGFXfVVLwK0RF2c4TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147900625772-1ogt8hlnsej8jgpdrp14fs6h0fpj8t8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
